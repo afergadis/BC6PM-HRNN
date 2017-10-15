@@ -1,10 +1,10 @@
 # Hierarchical Bidirectional Attention-Based RNN in BioCreative VI Precision Medicine Track, Document Triage Task
 
-Repository containing the winning submission for the BioCreative VI Precision Medicine Track, Document Triage Task (2017). The model is a Hierarchical Bidirectional Attention-Based RNN, implemented in Keras.
+Repository containing the winning system of the BioCreative VI Precision Medicine Track, Document Triage Task (2017). The model is a Hierarchical Bidirectional Attention-Based RNN, implemented in Keras.
 
 # Embeddings
 Put (or link) the embeddings file [PubMed-w2v.bin](http://evexdb.org/pmresources/vec-space-models/PubMed-w2v.bin) into 
-the `embeddings` directory.
+the `embeddings` directory, or use Cached Embeddings.
 
 ## Cached Embeddings
 Put (or link) the _cached_ embeddings file [_word_vectors.p](https://drive.google.com/open?id=0B1Ke0XMx85YWZmFJaVNvQlZjLU0) into 
