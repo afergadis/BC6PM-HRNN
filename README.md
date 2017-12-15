@@ -13,6 +13,6 @@ the `embeddings` directory.
 # Run and get saved model
   - Run `triage.py`
   - Wait for the training to stop. The saved model will be stored at `triage/models/experiments`
-  - Use `triage/models/submissions/submit_task1.py` to load the saved model 
+  - Use `triage/models/submissions/submission.py` to load the saved model 
   and use it to get the predictions on a new dataset. 
   Set `model_name` to the name of the desired saved model in `triage/models/experiments`. 
